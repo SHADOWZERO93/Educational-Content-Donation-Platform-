@@ -22,10 +22,6 @@ The vision of this project is to create a global, decentralized repository where
 - **Smart Contract Enhancements**: Introducing reputation scores and donation tracking for contributors.
 - **Multi-chain Support**: Expanding to other blockchain networks to enhance accessibility.
 - **AI-based Content Curation**: Using AI to filter and recommend relevant educational content to users.
-
-## Contract Address
-Address: 0x925E56F9e30b1F0488395548b95E8483FfE7A0F7
-
 ## Key Features
 - **Immutable Project Information**: Stored securely on the blockchain, ensuring transparency.
 - **Decentralized Donations**: Users can donate educational materials without intermediaries.
@@ -33,4 +29,10 @@ Address: 0x925E56F9e30b1F0488395548b95E8483FfE7A0F7
 - **Wallet Integration**: Allows users to connect via MetaMask or WalletConnect.
 - **Transparent Tracking**: Enables verification of content authenticity and donation history.
 - **Open Access**: Available to users worldwide, promoting equitable knowledge sharing.
+
+
+## Contract Address
+Address: 0x925E56F9e30b1F0488395548b95E8483FfE7A0F7
+
+![image](https://github.com/user-attachments/assets/25776b0a-2baf-4c7a-8bdb-ff85a1a9acf5)
 
