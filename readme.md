@@ -14,7 +14,7 @@
 The **Educational Content Donation Platform** is a blockchain-powered platform designed to facilitate the donation and sharing of educational materials in a secure, transparent, and decentralized manner. By leveraging blockchain technology, this platform ensures authenticity, traceability, and immutability of donated content, fostering a borderless and equitable learning environment.
 
 ## Project Vision
-The vision of this project is to create a global, decentralized repository where individuals and organizations can contribute and access educational resources without intermediaries. This system aims to empower students, educators, and knowledge seekers by making high-quality educational materials universally available and verifiable.
+The vision of this project is to create a global, decentralized repository where individuals and organizations can contribute and access educational resources without intermediaries. This system aims to greatly empower students, educators, and knowledge seekers by making high-quality educational materials universally available and verifiable.
 
 ## Future Scope
 - **Integration of NFTs**: Tokenizing educational content as NFTs to provide ownership and monetization options.
